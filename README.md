@@ -8,7 +8,7 @@
 - Crafting smooth user experiences  
 
 🌱 **Currently Learning**:  
-- Advanced React Patterns  
+- Angular 18  
 - Responsive Design with Tailwind CSS  
 - Mobile App Development  
 
